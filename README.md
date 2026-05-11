@@ -1,6 +1,6 @@
 # 🚀 Anthony Turpin
 
-**Software Engineering Student @Epitech | Future Tech Entrepreneur**
+**Software Engineering Student @Epitech**
 
 > "Rigor and discipline in every commit."
 
