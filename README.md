@@ -1,48 +1,20 @@
-# 🚀 Anthony Turpin
+# Anthony Turpin
 
-**Software Engineering Student @Epitech**
+Étudiant en Bachelor 1 à Epitech (La Réunion), orienté développement web / full stack.
+Recherche un stage de 1 à 3 mois en juin–juillet 2027.
 
-> "Rigor and discipline in every commit."
+[LinkedIn](https://www.linkedin.com/in/anthony-turpin-16918a269) · anthony.tp70@gmail.com
 
----
+## Stack
+- **Web** : HTML, CSS, JavaScript
+- **Systèmes** : C (norme Epitech), Shell (Bash)
+- **Scripts et POO** : Python
 
-### 🛠️ Tech Stack
-- **Low-Level & System:** C (Epitech Standard), Shell Scripting (Bash)
-- **Backend & Logic:** Python (POO, Automation, Algorithms)
-- **Frontend & Architecture:** Vanilla JS, Modern CSS, Modular Web Architecture
+## Projets web
+En cours de mise en ligne : maquette front-end modulaire (HTML/CSS) et prototype d'interface de streaming (JavaScript). Liens et démos ajoutés dès la publication.
 
----
-
-### 🧪 My Laboratories & Toolboxes
-- [**c-lab**](https://github.com/AnthonyTurpinDev/c-lab) — Systems programming & memory management playground.
-- [**python-lab**](https://github.com/AnthonyTurpinDev/python-lab) — Object-Oriented Programming (POO) & scripting testing ground.
-- [**shell-lab**](https://github.com/AnthonyTurpinDev/shell-lab) — Advanced automation & CLI tools.
-- [**epicheck-devops-toolbox**](https://github.com/AnthonyTurpinDev/epicheck-devops-toolbox) — DevOps utility scripts and environment checking tools.
-
----
-
-### 🏫 Academic Foundations
-- [**university-c-blueprint**](https://github.com/AnthonyTurpinDev/university-c-blueprint) — Complete industrial restructuration of my University L1 Computer Science works in C.
-
----
-
-### 🌟 Featured Projects
-
-#### ⚙️ System & Simulation
-- [**RunEcoSys-CoreEngine**](https://github.com/AnthonyTurpinDev/RunEcoSys-CoreEngine) — Core engine development in C.
-- [**sandfall-simulation-poo**](https://github.com/AnthonyTurpinDev/sandfall-simulation-poo) — Cellular automata sandfall simulation utilizing OOP concepts in Python.
-
-#### 🌐 Web Architecture & UX
-- [**Maison-Noir-Web-Architecture**](https://github.com/AnthonyTurpinDev/Maison-Noir-Web-Architecture) — High-end modular frontend architecture implemented in pure HTML/CSS.
-- [**netcine-prototype**](https://github.com/AnthonyTurpinDev/netcine-prototype) — Dynamic vanilla JavaScript engine mimicking modern streaming interfaces.
-
----
-
-### 📫 Connect with me
-- 🌍 Based in **Saint-Denis, La Réunion (UTC +04:00)**
-- 💼 [LinkedIn](https://www.linkedin.com/in/anthony-turpin-16918a269)
-- ✉️ `anthony.tp70@gmail.com`
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AnthonyTurpinDev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+## Dépôts d'exercices
+- [c-lab](https://github.com/AnthonyTurpinDev/c-lab) : exercices de C (mémoire, pointeurs, Makefile)
+- [python-lab](https://github.com/AnthonyTurpinDev/python-lab) : exercices de Python (POO, scripts)
+- [shell-lab](https://github.com/AnthonyTurpinDev/shell-lab) : scripts shell
+- [university-c-blueprint](https://github.com/AnthonyTurpinDev/university-c-blueprint) : travaux de L1 Informatique en C, réorganisés
